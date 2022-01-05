@@ -1,0 +1,8 @@
+{
+"mysql": {
+    "host": "rm-0iwl6988m15u6w0agio.mysql.japan.rds.aliyuncs.com",
+    "user": "research",
+    "password": "fEygOAuld8TMYguf",
+    "database": "research"
+  }
+}
